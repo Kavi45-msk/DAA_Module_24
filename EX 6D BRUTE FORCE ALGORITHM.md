@@ -20,8 +20,8 @@ To write a python program using brute force method of searching for the given su
 ## Program:
 ```
 To implement the program using brute force method of searching for the given substring in the main string.
-Developed by: ABHINESWAR REDDY K
-Register Number: 212223040084
+Developed by: Kavi M S
+Register Number: 212223220044
 ```
 
 ```python
